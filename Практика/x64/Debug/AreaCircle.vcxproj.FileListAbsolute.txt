@@ -1,0 +1,15 @@
+C:\Users\79142\Desktop\AreaCircle-master\x64\Debug\AreaCircle.vcxprojAssemblyReference.cache
+C:\Users\79142\Desktop\AreaCircle-master\x64\Debug\AreaCircle.MyForm.resources
+C:\Users\79142\Desktop\AreaCircle-master\x64\Debug\AreaCircle.vcxproj.GenerateResource.cache
+C:\Users\79142\Desktop\AreaCircle-master\x64\Debug\AreaCircle.exe
+C:\Users\79142\Desktop\AreaCircle-master\x64\Debug\AreaCircle.pdb
+C:\Users\79142\Desktop\Практика\x64\Debug\AreaCircle.vcxprojAssemblyReference.cache
+C:\Users\79142\Desktop\Практика\x64\Debug\AreaCircle.MyForm.resources
+C:\Users\79142\Desktop\Практика\x64\Debug\AreaCircle.vcxproj.GenerateResource.cache
+C:\Users\79142\Desktop\Практика\x64\Debug\AreaCircle.exe
+C:\Users\79142\Desktop\Практика\x64\Debug\AreaCircle.pdb
+C:\Users\79142\Desktop\Долганюк Н.А. Практика\Практика\x64\Debug\AreaCircle.vcxprojAssemblyReference.cache
+C:\Users\79142\Desktop\Долганюк Н.А. Практика\Практика\x64\Debug\AreaCircle.MyForm.resources
+C:\Users\79142\Desktop\Долганюк Н.А. Практика\Практика\x64\Debug\AreaCircle.vcxproj.GenerateResource.cache
+C:\Users\79142\Desktop\Долганюк Н.А. Практика\Практика\x64\Debug\AreaCircle.exe
+C:\Users\79142\Desktop\Долганюк Н.А. Практика\Практика\x64\Debug\AreaCircle.pdb
