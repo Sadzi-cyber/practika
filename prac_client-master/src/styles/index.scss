@@ -1,0 +1,21 @@
+@import "./reset";
+
+body {
+    background-color: #f5f4f7;  
+
+    &.lock {
+        overflow: hidden;
+    }
+}
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 1rem;
+    margin: 0 auto;
+}

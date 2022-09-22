@@ -1,0 +1,25 @@
+.wrapper {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+
+    background-color: #673ab7;
+    box-shadow: 0px -19px 28px -5px rgba(255, 255, 255, 0.2) inset,
+        0px 5px 14px 1px rgba(0, 0, 0, 0.6);
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    height: 6rem;
+}
+
+.title {
+    margin-left: 1rem;
+
+    font-size: 3rem;
+    font-style: italic;
+    color: #fff;
+}
